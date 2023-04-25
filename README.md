@@ -4,4 +4,4 @@ Link to the Kattis website: https://open.kattis.com/problems
 
 Solutions are listed as their specified file name on kattis, and currently only coded in Java.
 
-Total challenges / problems currently: 67
+Total challenges / problems currently: 70
