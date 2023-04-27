@@ -13,7 +13,8 @@ public class alphabetanimals {
         char last = played.charAt(played.length() - 1);
         int[] count = new int['z' + 1];
         List<String> usableAnimals = new ArrayList<>();
-        for (String a : animals) {
+        for (int i = 0; i < animals.length; i++) {
+            String a = animals[i];
             count[a.charAt(0)]++;
             if (a.charAt(0) == last) {
                 usableAnimals.add(a);
@@ -23,7 +24,8 @@ public class alphabetanimals {
             System.out.print('?');
             return;
         }
-        for (String a : usableAnimals) {
+        for (int i = 0; i < usableAnimals.size(); i++) {
+            String a = usableAnimals.get(i);
             if (count[a.charAt(a.length() - 1)] == 0 ||
                     a.charAt(0) == a.charAt(a.length() - 1) && count[a.charAt(0)] == 1) {
                 System.out.print(a + '!');
