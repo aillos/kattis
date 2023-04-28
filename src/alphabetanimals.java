@@ -6,8 +6,8 @@ public class alphabetanimals {
         String played = sc.next();
         int animalNum = sc.nextInt();
         String[] animals = new String[animalNum];
-        for (int x = 0; x < animalNum; x++) {
-            animals[x] = sc.next();
+        for (int i = 0; i < animalNum; i++) {
+            animals[i] = sc.next();
         }
 
         char last = played.charAt(played.length() - 1);
