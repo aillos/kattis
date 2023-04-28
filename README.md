@@ -1,19 +1,13 @@
-My Kattis profile: https://open.kattis.com/users/andreas-solli
+# [Kattis Solutions](https://open.kattis.com/problems)
 
-
-Newer ones will of course have better code as I have improved while doing the challenges.
-
-
-By Andreas Solli
 > **Note** <br>
 > Apr 10, 2023: First 42 Challenges were commited on this date but submitted within the span of two weeks leading up.<br>
-> Apr 25, 2023: 25 Challenges were commited on this date but they were also done in between the first commit and the second.
+> Apr 25, 2023: 25 Challenges were commited on this date but they were also done in between the first commit and the second. <br>
+> Newer solutions will of course have better code as I have improved while doing the challenges.
 
 > **Warning** <br>
 > Nicknames is not 100%, will potentially be updated in the future. <br>
 > FizzBuzz will also be updated.
-
-# [Kattis Solutions](https://open.kattis.com/problems)
 
 | 80 Problems | Solutions | Difficulty | Date
 | :---- | :----: | :----: | :----: |
@@ -98,3 +92,5 @@ By Andreas Solli
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [Java](https://github.com/aillos/kattis/blob/master/src/undeadoralive.java) | 1.4 | Apr 10, 2023
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [Java](https://github.com/aillos/kattis/blob/master/src/whichisgreater.java) | 1.3 | Apr 10, 2023
 | [Zamka](https://open.kattis.com/problems/zamka) | [Java](https://github.com/aillos/kattis/blob/master/src/zamka.java) | 1.5 | Apr 10, 2023
+
+### [My Kattis profile](https://open.kattis.com/users/andreas-solli)
