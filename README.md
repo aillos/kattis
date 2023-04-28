@@ -37,3 +37,28 @@ Apr 25, 2023 - 25 Challenges were commited on this date but they were also done 
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [Java](https://github.com/aillos/kattis/blob/master/src/classfieldtrip.java) | 1.4 | Apr 25, 2023
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/aillos/kattis/blob/master/src/cold.java) | 1.3 | Apr 10, 2023
 | [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [Java](https://github.com/aillos/kattis/blob/master/src/countthevowels.java) | 1.3 | Apr 10, 2023
+| [Cpr-nummer](https://open.kattis.com/problems/cprnummer) | [Java](https://github.com/aillos/kattis/blob/master/src/cprnummer.java) | 1.4 | Apr 25, 2023
+| [Cut the Negativity](https://open.kattis.com/problems/cutthenegativity) | [Java](https://github.com/aillos/kattis/blob/master/src/cutthenegativity.java) | 1.4 | Apr 10, 2023
+| [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Java](https://github.com/aillos/kattis/blob/master/src/detaileddifferences.java) | 1.4 | Apr 25, 2023
+| [Dice Cup](https://open.kattis.com/problems/dicecup) | [Java](https://github.com/aillos/kattis/blob/master/src/dicecup.java) | 1.4 | Apr 25, 2023
+| [Digit Swap](https://open.kattis.com/problems/digitswap) | [Java](https://github.com/aillos/kattis/blob/master/src/digitswap.java) | 1.3 | Apr 10, 2023
+| [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [Java](https://github.com/aillos/kattis/blob/master/src/echoechoecho.java) | 1.3 | Apr 10, 2023
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Java](https://github.com/aillos/kattis/blob/master/src/electricaloutlets.java) | 1.4 | Apr 25, 2023
+| [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron) | [Java](https://github.com/aillos/kattis/blob/master/src/eyeofsauron.java) | 1.4 | Apr 25, 2023
+| [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/aillos/kattis/blob/master/src/faktor.java) | 1.4 | Apr 10, 2023
+| [Filip](https://open.kattis.com/problems/filip) | [Java](https://github.com/aillos/kattis/blob/master/src/filip.java) | 1.4 | Apr 25, 2023
+| [Finding An A](https://open.kattis.com/problems/findingana) | [Java](https://github.com/aillos/kattis/blob/master/src/findingana.java) | 1.3 | Apr 10, 2023
+| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/aillos/kattis/blob/master/src/fizzbuzz.java) | 1.4 | Apr 25, 2023
+| [FYI](https://open.kattis.com/problems/fyi) | [Java](https://github.com/aillos/kattis/blob/master/src/fyi.java) | 1.3 | Apr 10, 2023
+| [Gandalf's Spell](https://open.kattis.com/problems/gandalfsspell) | [Java](https://github.com/aillos/kattis/blob/master/src/gandalfsspell.java) | 2.1 | Apr 25, 2023
+| [GCVWR](https://open.kattis.com/problems/gcvwr) | [Java](https://github.com/aillos/kattis/blob/master/src/gcvwr.java) | 1.3 | Apr 10, 2023
+| [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](https://github.com/aillos/kattis/blob/master/src/grassseed.java) | 1.4 | Apr 25, 2023
+| [Greetings!](https://open.kattis.com/problems/greetings2) | [Java](https://github.com/aillos/kattis/blob/master/src/greetings2.java) | 1.3 | Apr 10, 2023
+| [Heart Rate](https://open.kattis.com/problems/heartrate) | [Java](https://github.com/aillos/kattis/blob/master/src/heartrate.java) | 1.4 | Apr 25, 2023
+| [Hello World!](https://open.kattis.com/problems/hello) | [Java](https://github.com/aillos/kattis/blob/master/src/hello.java) | 1.2 | Apr 10, 2023
+| [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Java](https://github.com/aillos/kattis/blob/master/src/hissingmicrophone.java) | 1.4 | Apr 25, 2023
+| [Homework](https://open.kattis.com/problems/heimavinna) | [Java](https://github.com/aillos/kattis/blob/master/src/heimavinna.java) | 1.5 | Apr 25, 2023
+| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](https://github.com/aillos/kattis/blob/master/src/isithalloween.java) | 1.4 | Apr 25, 2023
+| [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Java](https://github.com/aillos/kattis/blob/master/src/everywhere.java) | 1.4 | Apr 25, 2023
+| [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [Java](https://github.com/aillos/kattis/blob/master/src/jackolanternjuxtaposition.java) | 1.3 | Apr 10, 2023
+| [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [Java](https://github.com/aillos/kattis/blob/master/src/jumbojavelin.java) | 1.3 | Apr 10, 2023
