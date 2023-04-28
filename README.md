@@ -82,3 +82,21 @@ By Andreas Solli
 | [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [Java](https://github.com/aillos/kattis/blob/master/src/ratingproblems.java) | 1.4 | Apr 10, 2023
 | [Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/aillos/kattis/blob/master/src/reversebinary.java) | 1.5 | Apr 25, 2023
 | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Java](https://github.com/aillos/kattis/blob/master/src/princesspeach.java) | 2.1 | Apr 26, 2023
+| [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Java](https://github.com/aillos/kattis/blob/master/src/shatteredcake.java) | 1.4 | Apr 10, 2023
+| [Sibice](https://open.kattis.com/problems/sibice) | [Java](https://github.com/aillos/kattis/blob/master/src/sibice.java) | 1.5 | Apr 25, 2023
+| [Skru op!](https://open.kattis.com/problems/skruop) | [Java](https://github.com/aillos/kattis/blob/master/src/skruop.java) | 1.5 | Apr 25, 2023
+| [Sky Islands](https://open.kattis.com/problems/skyislands) | [Java](https://github.com/aillos/kattis/blob/master/src/skyislands.java) | 2.0 | Apr 26, 2023
+| [SMIL](https://open.kattis.com/problems/smil) | [Java](https://github.com/aillos/kattis/blob/master/src/smil.java) | 1.5 | Apr 25, 2023
+| [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Java](https://github.com/aillos/kattis/blob/master/src/carrots.java) | 1.4 | Apr 10 2023
+| [Some Sum](https://open.kattis.com/problems/somesum) | [Java](https://github.com/aillos/kattis/blob/master/src/somesum.java) | 2.1 | Apr 25, 2023
+| [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers) | [Java](https://github.com/aillos/kattis/blob/master/src/sorttwonumbers.java) | 1.3 | Apr 10, 2023
+| [Spavanac](https://open.kattis.com/problems/spavanac) | [Java](https://github.com/aillos/kattis/blob/master/src/spavanac.java) | 1.4 | Apr 10, 2023
+| [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Java](https://github.com/aillos/kattis/blob/master/src/speedlimit.java) | 1.5 | Apr 25, 2023
+| [Sticky Keys](https://open.kattis.com/problems/stickykeys) | [Java](https://github.com/aillos/kattis/blob/master/src/stickykeys.java) | 1.5 | Apr 25, 2023
+| [Stopwatch](https://open.kattis.com/problems/stopwatch) | [Java](https://github.com/aillos/kattis/blob/master/src/stopwatch.java) | 1.4 | Apr 10, 2023
+| [Stuck In A Time Loop](https://github.com/aillos/kattis/blob/master/src/timeloop.java) | [Java](https://github.com/aillos/kattis/blob/master/src/timeloop.java) | 1.3 | Apr 10, 2023
+| [Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](https://github.com/aillos/kattis/blob/master/src/twostones.java) | 1.3 | Apr 10, 2023
+| [Tarifa](https://open.kattis.com/problems/tarifa) | [Java](https://github.com/aillos/kattis/blob/master/src/tarifa.java) | 1.4 | Apr 10, 2023
+| [Transit Woes](https://open.kattis.com/problems/transitwoes) | [Java](https://github.com/aillos/kattis/blob/master/src/transitwoes.java) | 1.5 | Apr 25, 2023
+| [Triangle Area](https://open.kattis.com/problems/triarea) | [Java](https://github.com/aillos/kattis/blob/master/src/triarea.java) | 1.3 | Apr 25, 2023
+
