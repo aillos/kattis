@@ -23,7 +23,7 @@ Start date
 Some solutions may be outdated and could be revised.
 
 | 76 Problems | Solutions | Difficulty | Date
-| :----: | :----: | :----: | :----: |
+| :---- | :----: | :----: | :----: |
 | [99 Problems](https://open.kattis.com/problems/99problems) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) | 2.8 | Apr 27, 2023
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) | 1.3 | Apr 10, 2023
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/aillos/kattis/blob/master/src/different.java) | 2.8 | Apr 25, 2023
