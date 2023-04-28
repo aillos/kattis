@@ -71,3 +71,14 @@ By Andreas Solli
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/aillos/kattis/blob/master/src/nastyhacks.java) | 1.4 | Apr 25, 2023
 | [Nicknames](https://open.kattis.com/problems/nicknames) | [Java](https://github.com/aillos/kattis/blob/master/src/nicknames.java) | 3.9 | Apr 26, 2023
 | [N-sum](https://open.kattis.com/problems/nsum) | [Java](https://github.com/aillos/kattis/blob/master/src/nsum.java) | 1.4 | Apr 25, 2023
+| [Odd Echo](https://open.kattis.com/problems/oddecho) | [Java](https://github.com/aillos/kattis/blob/master/src/oddecho.java) | 1.4 | Apr 25, 2023
+| [Pet](https://open.kattis.com/problems/pet) | [Java](https://github.com/aillos/kattis/blob/master/src/pet.java) | 1.4 | Apr 27, 2023
+| [Planina](https://open.kattis.com/problems/planina) | [Java](https://github.com/aillos/kattis/blob/master/src/planina.java) | 1.4 | Apr 25, 2023
+| [PokeChat](https://open.kattis.com/problems/pokechat) | [Java](https://github.com/aillos/kattis/blob/master/src/pokechat.java) | 1.4 | Apr 10, 2023
+| [Pot](https://open.kattis.com/problems/pot) | [Java](https://github.com/aillos/kattis/blob/master/src/pot.java) | 1.4 | Apr 10, 2023
+| [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Java](https://github.com/aillos/kattis/blob/master/src/quadrant.java) | 1.3 | Apr 10, 2023
+| [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](https://github.com/aillos/kattis/blob/master/src/qaly.java) | 1.3 | Apr 10, 2023
+| [R2](https://open.kattis.com/problems/r2) | [Java](https://github.com/aillos/kattis/blob/master/src/r2.java) | 1.3 | Apr 10, 2023
+| [Rating Problems](https://open.kattis.com/problems/ratingproblems) | [Java](https://github.com/aillos/kattis/blob/master/src/ratingproblems.java) | 1.4 | Apr 10, 2023
+| [Reverse Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Java](https://github.com/aillos/kattis/blob/master/src/reversebinary.java) | 1.5 | Apr 25, 2023
+| [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Java](https://github.com/aillos/kattis/blob/master/src/princesspeach.java) | 2.1 | Apr 26, 2023
