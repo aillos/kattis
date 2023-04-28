@@ -1,6 +1,7 @@
 # [Kattis Solutions](https://open.kattis.com/problems)
 
 > **Note** <br>
+> [My Kattis profile](https://open.kattis.com/users/aillos) <br>
 > **Apr 10, 2023:** First 42 Challenges were commited on this date but submitted within the span of two weeks leading up.<br>
 > **Apr 25, 2023:** 25 Challenges were commited on this date but they were also done in between the first commit and the second. <br>
 > <br>
@@ -96,5 +97,3 @@
 | [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [Java](https://github.com/aillos/kattis/blob/master/src/undeadoralive.java) | 1.4 | Apr 10, 2023
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [Java](https://github.com/aillos/kattis/blob/master/src/whichisgreater.java) | 1.3 | Apr 10, 2023
 | [Zamka](https://open.kattis.com/problems/zamka) | [Java](https://github.com/aillos/kattis/blob/master/src/zamka.java) | 1.5 | Apr 10, 2023
-
-### [My Kattis profile](https://open.kattis.com/users/andreas-solli)
