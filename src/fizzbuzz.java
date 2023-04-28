@@ -3,23 +3,23 @@ import java.util.*;
 public class fizzbuzz {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String [] input = sc.nextLine().split(" ");
-        int X = Integer.parseInt(input[0]);
-        int Y = Integer.parseInt(input[1]);
-        int N = Integer.parseInt(input[2]);
+        int fizzNum = sc.nextInt();
+        int buzzNum = sc.nextInt();
+        int interval = sc.nextInt();
+        String output;
+        String fizz = "Fizz";
+        String buzz = "Buzz";
 
-        for (int i=1; i<=N; i++){
-            if (i%X==0 && i%Y==0){
-                System.out.println("FizzBuzz");
-            }
-            else if (i%X==0){
-                System.out.println("Fizz");
-            }
-            else if (i%Y==0){
-                System.out.println("Buzz");
-            } else {
-                System.out.println(i);
-            }
+        for (int i=1; i<=interval; i++){
+            if (i%fizzNum==0 && i%buzzNum==0) output=fizz+buzz;
+
+            else if (i%fizzNum==0) output=fizz;
+
+            else if (i%buzzNum==0) output=buzz;
+
+            else output=""+i;
+
+            System.out.println(output);
         }
 
     }

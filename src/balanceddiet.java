@@ -1,27 +1,34 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class balanceddiet {
+
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         while (true) {
-            int num = sc.nextInt();
-            int [] cans = new int[num];
-            if (num == 0) break;
-            for (int i=0;i<num;i++){
-                cans[i]=sc.nextInt();
+            int n = scan.nextInt();
+            if (n == 0) break;
+            int[] cals = new int[n];
+            int sum = 0;
+            for (int i = 0; i < cals.length; i++) {
+                cals[i] = scan.nextInt();
+                sum += cals[i];
             }
-            Arrays.sort(cans);
-            int meal1=0;
-            int meal2=0;
-            for (int i=num-1;i>=0;i--){
-                if (meal2<meal1){
-                    meal2+=cans[i];
-                } else {
-                    meal1+=cans[i];
+            int[][] K = new int[n + 1][sum / 2 + 1];
+            for (int i = 0; i < K.length; i++) {
+                for (int j = 0; j < K[0].length; j++) {
+                    if (i == 0 || j == 0) {
+                        K[i][j] = 0;
+                    } else if (cals[i - 1] > j) {
+                        K[i][j] = K[i - 1][j];
+                    } else {
+                        K[i][j] = Math.max(K[i - 1][j], cals[i - 1] + K[i - 1][j - cals[i - 1]]);
+                    }
                 }
             }
-            System.out.println(meal1+ " " +meal2);
+            int small = K[n][sum / 2];
+            int big = sum - small;
+            System.out.println(big + " " + small);
         }
+        scan.close();
     }
 }
