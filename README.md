@@ -66,5 +66,5 @@ Apr 25, 2023 - 25 Challenges were commited on this date but they were also done 
 | [Magick Trick](https://open.kattis.com/problems/magictrick) | [Java](https://github.com/aillos/kattis/blob/master/src/magictrick.java) | 1.4 | Apr 10, 2023
 | [Metronome](https://open.kattis.com/problems/metronome) | [Java](https://github.com/aillos/kattis/blob/master/src/metronome.java) | 1.3 | Apr 10, 2023
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/aillos/kattis/blob/master/src/nastyhacks.java) | 1.4 | Apr 25, 2023
-| [Nicknames](https://open.kattis.com/problems/nicknames) | [Java](https://github.com/aillos/kattis/blob/master/src/nicknames.java) | 3.9 (Tried, not 100%) | Apr 26, 2023
+| [Nicknames](https://open.kattis.com/problems/nicknames) | [Java](https://github.com/aillos/kattis/blob/master/src/nicknames.java) | 3.9 | Apr 26, 2023
 | [N-sum](https://open.kattis.com/problems/nsum) | [Java](https://github.com/aillos/kattis/blob/master/src/nsum.java) | 1.4 | Apr 25, 2023
