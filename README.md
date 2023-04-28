@@ -12,15 +12,11 @@ Total challenges / problems currently: 76.5
 
 By Andreas Solli
 
-Start date
-	2023-04-06
-  Apr 10, 2023
-  Apr 25, 2023
-  Apr 26, 2023
-  Apr 27, 2023
+Start date:
+Apr 10, 2023 - First 42 Challenges were commited on this date but submitted within the span of two weeks leading up.
+Apr 25, 2023 - 25 Challenges were commited on this date but they were also done in between the first commit and the second.
 
 # Kattis Solutions
-Some solutions may be outdated and could be revised.
 
 | 76 Problems | Solutions | Difficulty | Date
 | :---- | :----: | :----: | :----: |
@@ -38,3 +34,6 @@ Some solutions may be outdated and could be revised.
 | [Bijele](https://open.kattis.com/problems/bijele) | [Java](https://github.com/aillos/kattis/blob/master/src/bijele.java) | 1.4 | Apr 25, 2023
 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [Java](https://github.com/aillos/kattis/blob/master/src/pyramids.java) | 1.5 | Apr 25, 2023
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Java](https://github.com/aillos/kattis/blob/master/src/chanukah.java) | 1.3 | Apr 10, 2023
+| [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [Java](https://github.com/aillos/kattis/blob/master/src/classfieldtrip.java) | 1.4 | Apr 25, 2023
+| [Cold-puter Science](https://open.kattis.com/problems/cold) | [Java](https://github.com/aillos/kattis/blob/master/src/cold.java) | 1.3 | Apr 10, 2023
+| [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [Java](https://github.com/aillos/kattis/blob/master/src/countthevowels.java) | 1.3 | Apr 10, 2023
