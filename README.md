@@ -15,9 +15,9 @@ By Andreas Solli
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-| 328 Problems | Languages | Difficulty
+| 76 Problems | Solutions | Difficulty
 | - | - | - |
-| [99 Problems](https://open.kattis.com/problems/99problems) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) | [2.8 Points]
+| [99 Problems](https://open.kattis.com/problems/99problems) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) | 2.8 Points
 | [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
 | [4 thought](https://open.kattis.com/problems/4thought) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/4thought.java) |
 
