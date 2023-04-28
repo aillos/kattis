@@ -99,4 +99,8 @@ By Andreas Solli
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [Java](https://github.com/aillos/kattis/blob/master/src/tarifa.java) | 1.4 | Apr 10, 2023
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [Java](https://github.com/aillos/kattis/blob/master/src/transitwoes.java) | 1.5 | Apr 25, 2023
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [Java](https://github.com/aillos/kattis/blob/master/src/triarea.java) | 1.3 | Apr 25, 2023
-
+| [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/aillos/kattis/blob/master/src/trik.java) | 1.4 | Apr 10, 2023
+| [Two-sum](https://open.kattis.com/problems/twosum) | [Java](https://github.com/aillos/kattis/blob/master/src/twosum.java) | 1.3 | Apr 10, 2023
+| [Undead or Alive](https://open.kattis.com/problems/undeadoralive) | [Java](https://github.com/aillos/kattis/blob/master/src/undeadoralive.java) | 1.4 | Apr 10, 2023
+| [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [Java](https://github.com/aillos/kattis/blob/master/src/whichisgreater.java) | 1.3 | Apr 10, 2023
+| [Zamka](https://open.kattis.com/problems/zamka) | [Java](https://github.com/aillos/kattis/blob/master/src/zamka.java) | 1.5 | Apr 10, 2023
