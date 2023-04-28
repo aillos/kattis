@@ -8,6 +8,6 @@ Solutions are listed as their specified file name on kattis, and currently only 
 
 Newer ones will of course have better code as I have improved while doing the challenges.
 
-Total challenges / problems currently: 76
+Total challenges / problems currently: 76.5
 
 By Andreas Solli
