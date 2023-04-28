@@ -9,7 +9,9 @@
 
 > **Warning** <br>
 > Nicknames is not 100%, will potentially be updated in the future. <br>
-> FizzBuzz will also be updated. <br>
+> FizzBuzz will also be updated.
+
+<br>
 
 | 80 Problems | Solutions | Difficulty | Date
 | :---- | :----: | :----: | :----: |
