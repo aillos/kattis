@@ -11,7 +11,7 @@ Newer ones will of course have better code as I have improved while doing the ch
 Total challenges / problems currently: 76.5
 
 By Andreas Solli
-> **Note**
+> **Note** <br>
 > Apr 10, 2023 - First 42 Challenges were commited on this date but submitted within the span of two weeks leading up.<br>
 > Apr 25, 2023 - 25 Challenges were commited on this date but they were also done in between the first commit and the second.
 
