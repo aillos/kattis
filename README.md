@@ -17,7 +17,8 @@ Some solutions may be outdated and could be revised.
 
 | 76 Problems | Solutions | Difficulty
 | - | - | - |
-| [99 Problems](https://open.kattis.com/problems/99problems) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) | 2.8 Points
-| [2048](https://open.kattis.com/problems/2048) | [C#](https://github.com/minidomo/Kattis/blob/master/C%23/2048.cs), [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) |
-| [4 thought](https://open.kattis.com/problems/4thought) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/4thought.java) |
-
+| [99 Problems](https://open.kattis.com/problems/99problems) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) | 2.8 points
+| [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) | 1.3 points
+| [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/aillos/kattis/blob/master/src/different.java) | 2.8 points
+| [Almost Perfect](https://open.kattis.com/problems/almostperfect) | [Java](https://github.com/aillos/kattis/blob/master/src/almostperfect.java) | 3.6 points
+| [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [Java](https://github.com/aillos/kattis/blob/master/src/alphabetanimals.java) | 4.2 points
