@@ -14,7 +14,7 @@
 
 <br>
 
-| 90 Problems | Solutions | Difficulty | Date
+| 91 Problems | Solutions | Difficulty | Date
 | :---- | :----: | :----: | :----: |
 | [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [Java](https://github.com/aillos/kattis/blob/master/src/onedfroggereasy.java) | 3.6 | May 2, 2023
 | [99 Problems](https://open.kattis.com/problems/99problems) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) | 2.8 | Apr 27, 2023
