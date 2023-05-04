@@ -14,9 +14,10 @@
 
 <br>
 
-| 91 Problems | Solutions | Difficulty | Date
+| 94 Problems | Solutions | Difficulty | Date
 | :---- | :----: | :----: | :----: |
 | [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [Java](https://github.com/aillos/kattis/blob/master/src/onedfroggereasy.java) | 3.6 | May 2, 2023
+| [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/aillos/kattis/blob/master/src/threedprinter.java) | 3.0 | May 3, 2023
 | [99 Problems](https://open.kattis.com/problems/99problems) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/10kindsofpeople.java) | 2.8 | Apr 27, 2023
 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Java](https://github.com/minidomo/Kattis/blob/master/Java/2048.java) | 1.3 | Apr 10, 2023
 | [A Different Problem](https://open.kattis.com/problems/different) | [Java](https://github.com/aillos/kattis/blob/master/src/different.java) | 2.8 | Apr 25, 2023
@@ -29,6 +30,7 @@
 | [Batter Up](https://open.kattis.com/problems/batterup) | [Java](https://github.com/aillos/kattis/blob/master/src/batterup.java) | 1.3 | Apr 10, 2023
 | [Betting](https://open.kattis.com/problems/betting) | [Java](https://github.com/aillos/kattis/blob/master/src/betting.java) | 1.3 | Apr 10, 2023
 | [Bijele](https://open.kattis.com/problems/bijele) | [Java](https://github.com/aillos/kattis/blob/master/src/bijele.java) | 1.4 | Apr 25, 2023
+| [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [Java](https://github.com/aillos/kattis/blob/master/src/fodelsedagsmemorisering.java) | 1.7 | May 3, 2023
 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [Java](https://github.com/aillos/kattis/blob/master/src/pyramids.java) | 1.5 | Apr 25, 2023
 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Java](https://github.com/aillos/kattis/blob/master/src/chanukah.java) | 1.3 | Apr 10, 2023
 | [Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [Java](https://github.com/aillos/kattis/blob/master/src/classfieldtrip.java) | 1.4 | Apr 25, 2023
@@ -101,6 +103,7 @@
 | [Stuck In A Time Loop](https://github.com/aillos/kattis/blob/master/src/timeloop.java) | [Java](https://github.com/aillos/kattis/blob/master/src/timeloop.java) | 1.3 | Apr 10, 2023
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](https://github.com/aillos/kattis/blob/master/src/twostones.java) | 1.3 | Apr 10, 2023
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [Java](https://github.com/aillos/kattis/blob/master/src/tarifa.java) | 1.4 | Apr 10, 2023
+| [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [Java](https://github.com/aillos/kattis/blob/master/src/owlandfox.java) | 1.8 | May 3, 2023
 | [Transit Woes](https://open.kattis.com/problems/transitwoes) | [Java](https://github.com/aillos/kattis/blob/master/src/transitwoes.java) | 1.5 | Apr 25, 2023
 | [Triangle Area](https://open.kattis.com/problems/triarea) | [Java](https://github.com/aillos/kattis/blob/master/src/triarea.java) | 1.3 | Apr 25, 2023
 | [Trik](https://open.kattis.com/problems/trik) | [Java](https://github.com/aillos/kattis/blob/master/src/trik.java) | 1.4 | Apr 10, 2023
