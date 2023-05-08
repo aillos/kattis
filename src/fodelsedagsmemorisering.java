@@ -25,7 +25,7 @@ public class fodelsedagsmemorisering {
                 names.put(date, name);
             }
         }
-        
+
         List<String> chosenNames = new ArrayList<>(names.values());
         Collections.sort(chosenNames);
         System.out.println(chosenNames.size());

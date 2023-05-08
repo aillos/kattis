@@ -14,7 +14,7 @@
 
 <br>
 
-| 94 Problems | Solutions | Difficulty | Date
+| 96 Problems | Solutions | Difficulty | Date
 | :---- | :----: | :----: | :----: |
 | [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [Java](https://github.com/aillos/kattis/blob/master/src/onedfroggereasy.java) | 3.6 | May 2, 2023
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/aillos/kattis/blob/master/src/threedprinter.java) | 3.0 | May 3, 2023
@@ -24,6 +24,7 @@
 | [Almost Perfect](https://open.kattis.com/problems/almostperfect) | [Java](https://github.com/aillos/kattis/blob/master/src/almostperfect.java) | 3.6 | Apr 25, 2023
 | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [Java](https://github.com/aillos/kattis/blob/master/src/alphabetanimals.java) | 4.2 | Apr 26, 2023
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Java](https://github.com/aillos/kattis/blob/master/src/alphabetspam.java) | 1.4 | Apr 25, 2023
+| [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Java](https://github.com/aillos/kattis/blob/master/src/anewalphabet.java) | 1.9 | May 4, 2023
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/aillos/kattis/blob/master/src/apaxiaaans.java) | 1.4 | Apr 25, 2023
 | [Autori](https://open.kattis.com/problems/autori) | [Java](https://github.com/aillos/kattis/blob/master/src/autori.java) | 1.3 | Apr 10, 2023
 | [Avion](https://open.kattis.com/problems/avion) | [Java](https://github.com/aillos/kattis/blob/master/src/avion.java) | 1.4 | Apr 25, 2023
