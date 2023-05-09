@@ -14,7 +14,7 @@
 
 <br>
 
-| 96 Problems | Solutions | Difficulty | Date
+| 101 Problems | Solutions | Difficulty | Date
 | :---- | :----: | :----: | :----: |
 | [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [Java](https://github.com/aillos/kattis/blob/master/src/onedfroggereasy.java) | 3.6 | May 2, 2023
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/aillos/kattis/blob/master/src/threedprinter.java) | 3.0 | May 3, 2023
@@ -25,7 +25,11 @@
 | [Alphabet Animals](https://open.kattis.com/problems/alphabetanimals) | [Java](https://github.com/aillos/kattis/blob/master/src/alphabetanimals.java) | 4.2 | Apr 26, 2023
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Java](https://github.com/aillos/kattis/blob/master/src/alphabetspam.java) | 1.4 | Apr 25, 2023
 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Java](https://github.com/aillos/kattis/blob/master/src/anewalphabet.java) | 1.9 | May 4, 2023
+| [Anthony and Diablo](https://open.kattis.com/problems/anthonyanddiablo) | [Java](https://github.com/aillos/kattis/blob/master/src/anthonyanddiablo.java) | 2.9 | May 9, 2023
+| [Ants](https://open.kattis.com/problems/ants) | [Java](https://github.com/aillos/kattis/blob/master/src/ants.java) | 2.3 | May 9, 2023
 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [Java](https://github.com/aillos/kattis/blob/master/src/apaxiaaans.java) | 1.4 | Apr 25, 2023
+| [A Prize No One Can Win](https://open.kattis.com/problems/aprizenoonecanwin) | [Java](https://github.com/aillos/kattis/blob/master/src/aprizenoonecanwin.java) | 2.5 | May 9, 2023
+| [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [Java](https://github.com/aillos/kattis/blob/master/src/astrologicalsign.java) | 2.2 | May 9, 2023
 | [Autori](https://open.kattis.com/problems/autori) | [Java](https://github.com/aillos/kattis/blob/master/src/autori.java) | 1.3 | Apr 10, 2023
 | [Avion](https://open.kattis.com/problems/avion) | [Java](https://github.com/aillos/kattis/blob/master/src/avion.java) | 1.4 | Apr 25, 2023
 | [Batter Up](https://open.kattis.com/problems/batterup) | [Java](https://github.com/aillos/kattis/blob/master/src/batterup.java) | 1.3 | Apr 10, 2023
@@ -45,6 +49,7 @@
 | [Digit Swap](https://open.kattis.com/problems/digitswap) | [Java](https://github.com/aillos/kattis/blob/master/src/digitswap.java) | 1.3 | Apr 10, 2023
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [Java](https://github.com/aillos/kattis/blob/master/src/echoechoecho.java) | 1.3 | Apr 10, 2023
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Java](https://github.com/aillos/kattis/blob/master/src/electricaloutlets.java) | 1.4 | Apr 25, 2023
+| [Exam](https://open.kattis.com/problems/exam) | [Java](https://github.com/aillos/kattis/blob/master/src/exam.java) | 2.1 | May 8, 2023
 | [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron) | [Java](https://github.com/aillos/kattis/blob/master/src/eyeofsauron.java) | 1.4 | Apr 25, 2023
 | [Faktor](https://open.kattis.com/problems/faktor) | [Java](https://github.com/aillos/kattis/blob/master/src/faktor.java) | 1.4 | Apr 10, 2023
 | [Filip](https://open.kattis.com/problems/filip) | [Java](https://github.com/aillos/kattis/blob/master/src/filip.java) | 1.4 | Apr 25, 2023
@@ -71,6 +76,7 @@
 | [Knight Packing](https://open.kattis.com/problems/knightpacking) | [Java](https://github.com/aillos/kattis/blob/master/src/knightpacking.java) | 1.3 | Apr 10, 2023
 | [Magick Trick](https://open.kattis.com/problems/magictrick) | [Java](https://github.com/aillos/kattis/blob/master/src/magictrick.java) | 1.4 | Apr 10, 2023
 | [Metronome](https://open.kattis.com/problems/metronome) | [Java](https://github.com/aillos/kattis/blob/master/src/metronome.java) | 1.3 | Apr 10, 2023
+| [Mia](https://open.kattis.com/problems/mia) | [Java](https://github.com/aillos/kattis/blob/master/src/mia.java) | 2.1 | May 8, 2023
 | [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](https://github.com/aillos/kattis/blob/master/src/missingnumbers.java) | 1.7 | May 2, 2023
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](https://github.com/aillos/kattis/blob/master/src/nastyhacks.java) | 1.4 | Apr 25, 2023
 | [Nicknames](https://open.kattis.com/problems/nicknames) | [Java](https://github.com/aillos/kattis/blob/master/src/nicknames.java) | 3.9 | Apr 26, 2023
