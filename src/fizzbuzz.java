@@ -6,19 +6,18 @@ public class fizzbuzz {
         int fizz = sc.nextInt();
         int buzz = sc.nextInt();
         int interval = sc.nextInt();
+        int fizzBuzz = fizz*buzz;
 
         for (int i=1;i<=interval;i++) {
-            String value = "";
-            if (i%fizz==0) {
-                value += "Fizz";
+            if (i%fizzBuzz==0) {
+                System.out.println("FizzBuzz");
+            } else if (i%fizz==0) {
+                System.out.println("Fizz");
+            } else if (i%buzz==0) {
+                System.out.println("Buzz");
+            } else {
+                System.out.println(i);
             }
-            if (i%buzz==0) {
-                value += "Buzz";
-            }
-            if (value.isEmpty()) {
-                value += i;
-            }
-            System.out.println(value);
         }
     }
 }
