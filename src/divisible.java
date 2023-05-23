@@ -12,26 +12,36 @@ public class divisible {
         int numTestCases = Integer.parseInt(reader.readLine());
 
         while (numTestCases-- > 0) {
-            Map<Integer, Integer> countings = new HashMap<>();
-            String[] data = reader.readLine().split(" ");
+            Map<Integer, Integer> counts = new HashMap<>();
+            String[] input = reader.readLine().split(" ");
 
-            int divisor = Integer.parseInt(data[0]);
-            int length = Integer.parseInt(data[1]);
-            int[] remainder = new int[length];
+            int divider = Integer.parseInt(input[0]);
+            int numbers = Integer.parseInt(input[1]);
+            int[] remainder = new int[numbers];
 
-            data = reader.readLine().split(" ");
-            for (int i = 0; i < length; i++) {
-                int number = Integer.parseInt(data[i]);
-                remainder[i] = (i != 0) ? (number + remainder[i - 1]) % divisor : number % divisor;
-                countings.put(remainder[i], (remainder[i] == 0) ? 1 : 0);
+            input = reader.readLine().split(" ");
+            for (int i = 0; i < numbers; i++) {
+                int number = Integer.parseInt(input[i]);
+                if (i != 0) {
+                    remainder[i] = (number + remainder[i - 1]) % divider;
+                } else {
+                    remainder[i] = number % divider;
+                }
+                int value;
+                if (remainder[i] == 0) {
+                    value = 1;
+                } else {
+                    value = 0;
+                }
+                counts.put(remainder[i], value);
             }
 
-            int numSequences = 0;
-            for (int i = 0; i < length; i++) {
-                numSequences += countings.get(remainder[i]);
-                countings.put(remainder[i], countings.get(remainder[i]) + 1);
+            int sequences = 0;
+            for (int i = 0; i < numbers; i++) {
+                sequences += counts.get(remainder[i]);
+                counts.put(remainder[i], counts.get(remainder[i]) + 1);
             }
-            System.out.println(numSequences);
+            System.out.println(sequences);
         }
     }
 
