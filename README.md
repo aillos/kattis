@@ -15,7 +15,7 @@
 <br>
 
 | 112 Problems | Solutions | Difficulty | Date
-| :---- | :----: | :----: | :----: |
+| :---- | :----: | :----: | :----: 
 | [1-D Frogger (Easy)](https://open.kattis.com/problems/1dfroggereasy) | [Java](https://github.com/aillos/kattis/blob/master/src/onedfroggereasy.java) | 3.6 | May 2, 2023
 | [2048](https://open.kattis.com/problems/2048) | [Java](https://github.com/aillos/kattis/blob/master/src/twozerofoureight.java) | 2.8 | May 10, 2023
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [Java](https://github.com/aillos/kattis/blob/master/src/threedprinter.java) | 3.0 | May 3, 2023
