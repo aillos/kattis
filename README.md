@@ -11,7 +11,7 @@
 > Nicknames is not 100%, will potentially be updated in the future. <br>
 > FizzBuzz will also be updated. <br>
 
-> *Newer solutions will of course have better code as I have improved while doing the challenges.* 
+> Newer solutions will of course have better code as I have improved while doing the challenges.
 
 <br>
 
